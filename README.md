@@ -2,7 +2,7 @@
 This project is a hardware rework of dekuNukem's duckypad project.
 I liked the whole promise of the project, but the lack of protection for it in a more EDC style role was a bit off putting.
 So because I had to read up into Altium for my job, I made it a goal for myself to redo the pcb.
-I'm, ontop of that,  making a 3dprinted body for it to house everything.
+I'm, in addition of that,  making a 3dprinted body for it to house everything.
 
 ## Original project
 
