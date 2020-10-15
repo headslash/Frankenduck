@@ -9,10 +9,10 @@ The pcb's are currently on its way from a manufacturer.
 
 ## Top layer
 
-![Alt text](resources/PCBtop.jpg)
-![Alt text](resources/PCB3dtop.jpg)
+![Alt text](/resources/PCBtop.jpg)
+![Alt text](/resources/PCB3dtop.jpg)
 
 ## Bottom layer
 
-![Alt text](resources/PCBbottom.jpg)
-![Alt text](Frankenduck/resources/PCB3dbottom.jpg)
+![Alt text](/resources/PCBbottom.jpg)
+![Alt text](/resources/PCB3dbottom.jpg)
