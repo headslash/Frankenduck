@@ -4,12 +4,19 @@ The case is just a clampshell design using the switch plate as a way to mount th
 
 Here's a refference to the different ways to mount a keyboard into a case.
 I'm going for the sandwich mount.
-![Alt text](/resources/keyboardmounting.png)
+<img src="/resources/keyboardmounting.png" width=50%>
 
+The case is effective and the 1.5mm polycarbonate cutouts work perfectly to get the visual I was aiming for.
 
-The case is currently in production where the acrylic has being cut out and was shipped send to me. 
+The stl's and dxf's are available for the parts.
 
-![Alt text](/resources/caserender1.png)
-![Alt text](/resources/caserender2.png)
+## V1 pcb inside the case
 
+just as intended:
+<img src="/resources/caselighted.jpg" width=75%>
+
+## Render
+
+<img src="/resources/caserender1.png" width=50%>
+<img src="/resources/caserender2.png" width=50%>
 
