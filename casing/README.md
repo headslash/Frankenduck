@@ -13,6 +13,7 @@ The stl's and dxf's are available for the parts.
 ## V1 pcb inside the case
 
 just as intended:
+
 <img src="/resources/caselighted.jpg" width=75%>
 
 ## Render
