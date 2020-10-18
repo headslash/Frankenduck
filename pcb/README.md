@@ -10,21 +10,21 @@ There was an issue with the connector of the amoled screen pinout being reversed
 
 ## V1.1 Top layer
 
-![Alt text](/resources/PCBtopV1_1.jpg)
-![Alt text](/resources/PCB3dtop.jpg){:height="50%" width="50%"}
+<img src="/resources/PCBtopV1_1.jpg" width=75%>
+<img src="/resources/PCB3dtop.jpg" width=75%>
 
 ## V1.1 Bottom layer
 
-![Alt text](/resources/PCBbottomV1_1.jpg)
-![Alt text](/resources/PCB3dbottom.jpg){:height="50%" width="50%"}
+<img src="/resources/PCBbottomV1_1.jpg" width=75%>
+<img src="/resources/PCB3dbottom.jpg" width=75%>
 
 
 ### V1 Top layer
 
-![Alt text](/resources/PCBtop.jpg){:height="25%" width="25%"}
+<img src="/resources/PCBtop.jpg" width=50%>
 
 
 ### V1 Bottom layer
 
-![Alt text](/resources/PCBbottom.jpg){:height="25%" width="25%"}
+<img src="/resources/PCBtop.jpg" width=50%>
 
