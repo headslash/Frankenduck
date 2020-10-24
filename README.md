@@ -1,3 +1,5 @@
+[Official Discord](https://discord.gg/4sJCBx5) | [Official/Original project ](https://github.com/dekuNukem/duckyPad) | [ Frankenduck Sale ](Sale_pricing.md)
+
 # Frankenduck
 This project is a hardware rework of dekuNukem's duckypad project.
 I liked the whole promise of the project, but the lack of protection for it in a more EDC style role was a bit off putting.
@@ -25,12 +27,12 @@ And it turned out beautiful
 <img src="/resources/backled.jpg" width=75%>
 <img src="/resources/Caselight.jpg" width=75%>
 
-### Pcb design
+## Pcb design
 
 The schematic is exactly the same, other than the 2 layer selection switches now being actual mechanical switches.
 I worked in Altium, so I still need to find a way to export the the project to easier accessible formats for other programs.
 
-### Working product/ Sale
+## Working product/ Sale
 
 This keyboard now works flawlessly in its V1.1 form and the Visuals work out as I intended.
 
