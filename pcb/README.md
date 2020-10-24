@@ -7,19 +7,19 @@ I'm placing the gerbers because not alot of people have altium to their exposal.
 
 Most pcb manufacturers will accept these gerber files without any needed modification.
 
-The second Version of the pcb's is currently on its way from a manufacturer.
-There was an issue with the connector of the amoled screen pinout being reversed by me.
-
+The Second V1pcb version has been tested and works perfectly.
 
 
 ## V1.1 Top layer
-The 3d View is almost identical between the 2 versions
+The 3d View is almost identical between the 2 versions.
 
+<img src="/resources/V1_1pcb2.jpg" width=75%>
 <img src="/resources/PCBtopV1_1.jpg" width=75%>
 <img src="/resources/PCB3dtop.jpg" width=75%>
 
 ## V1.1 Bottom layer
 
+<img src="/resources/V1_1pcb.jpg" width=75%>
 <img src="/resources/PCBbottomV1_1.jpg" width=75%>
 <img src="/resources/PCB3dbottom.jpg" width=75%>
 
