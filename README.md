@@ -35,6 +35,6 @@ I worked in Altium, so I still need to find a way to export the the project to e
 This keyboard now works flawlessly in its V1.1 form and the Visuals work out as I intended.
 
 And with that I'm gonna sell some on them (EU only) to get some of the investment cost out of it.
-If you want a complete one or a pcb hit me up on discord 'headslash#8967' or ask for me in [official duckyPad discord](https://discord.gg/4sJCBx5).
+If you want a complete one or a pcb hit me up on discord `headslash#8967` or ask for me in [official duckyPad discord](https://discord.gg/4sJCBx5).
 I'm quite open to custom colors on the case and switch choice.
 
