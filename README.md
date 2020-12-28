@@ -22,7 +22,7 @@ The frankenduck is able to fully run the original software provided on the [orig
 But, There are currently some exceptions:
 The frankenduck uses 2 extra leds on the 2 buttons on the side for the + and -.
 It also has the plus on the bottom and minus on the top. 
-For this PiTronica has made a [Different branch ](https://github.com/PiTronica/FrankenDuck) that provides led support and a switched plus and minus button.
+For this PiTronica has made a [Different version of the software](https://github.com/PiTronica/FrankenDuck) that provides led support and a switched plus and minus button.
 
 Due to a shortage on the STM32F072C8T6 I'm experimenting with the STM32F078CBT6. currently it seems that it's working properly except the screen.
 
