@@ -16,6 +16,17 @@ You can view the original schematic easily with Eagle or by importing the file t
 Also go take a look at the [official duckyPad Discord](https://discord.gg/4sJCBx5). 
 The original designer and I are both active there.
 
+## Software
+
+The frankenduck is able to fully run the original software provided on the [original project ](https://github.com/dekuNukem/duckyPad).
+But, There are currently some exceptions:
+The frankenduck uses 2 extra leds on the 2 buttons on the side for the + and -.
+It also has the plus on the bottom and minus on the top. 
+For this PiTronica has made a [Different branch ](https://github.com/PiTronica/FrankenDuck) that provides led support and a switched plus and minus button.
+
+Due to a shortage on the STM32F072C8T6 I'm experimenting with the STM32F078CBT6. currently it seems that it's working properly except the screen.
+
+
 ## Overview
 
 My goal with the hardware redesign is a more rigid and portable design while still being stylish and usable.
