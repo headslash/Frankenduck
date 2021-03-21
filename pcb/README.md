@@ -33,3 +33,9 @@ The 3d View is almost identical between the 2 versions.
 
 <img src="/resources/PCBbottom.jpg" width=50%>
 
+## soldering the components yourself
+
+In case you're planning on soldering the pcb yourself here's a component list and layout for the Resistors and capacitors.
+The other components are quite self explanatory.
+<img src="/resources/Componentlist">
+

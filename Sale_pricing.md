@@ -12,4 +12,8 @@ Pricewise I'm looking at around
 These kits include a 3dprinted case and acrylic.
 The shipping cost is not included in the price.
 
+For shipping outside the EU we're generally looking at these prices:
+Fully soldered including the case (no switches) would be around 102 euro.
+Without the printed case it would be around 75 bucks
+
 Any variant or parts kit can also be aquired, just ask, I'm open to alot of stuff.
