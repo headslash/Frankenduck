@@ -1,5 +1,9 @@
 # Working product/Sale
 
+NOTICE: I'm currently NOT selling the kit due to the silicon shortage and a redesing of the pcb I'm making.
+The pcb design is for easier manufacturing and more personal modification on the up and down keys.
+This version is made in KICAD and the files for that will be made available when finished.
+
 This keyboard now works flawlessly in its V1.1 form and the Visuals work out as I intended.
 
 And with that I'm gonna sell some on them to get some of the investment cost out of it.
